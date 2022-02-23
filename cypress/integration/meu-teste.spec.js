@@ -1,6 +1,6 @@
 /// <reference types="cypress" />
 
-context('Actions', () => {
+context('Execução dos testes:', () => {
   beforeEach(() => {
     cy.visit('../../index.html')
   })
