@@ -1,0 +1,7 @@
+{
+    "reporter": "mocha-junit-reporter",
+    "reporterOptions" : {
+        "mochaFile" : "reports/junit/resultado-dos-testes.[hash].xml",
+        "testssuitesTitle": false
+    }
+}
